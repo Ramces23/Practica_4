@@ -18,9 +18,9 @@ namespace Ejercicio_6
 
         public void Name()
         {
-           
+            if (i <= 0) { 
             Nombre = new string[700];
-
+}
            
             Console.WriteLine("Nombre de la Imagen");
 
@@ -29,8 +29,10 @@ namespace Ejercicio_6
 
         public void Ancho() 
         {
-
-            AnPixeles = new int[700];
+            if (i <= 0)
+            {
+                AnPixeles = new int[700];
+            }
             Console.WriteLine("Ancho de la Imagen en pixeles");
             AnPixeles[i] = int.Parse(Console.ReadLine());
 
@@ -38,8 +40,10 @@ namespace Ejercicio_6
 
         public void Alto() 
         {
-           
-            AlPixeles = new int[700];
+            if (i <= 0)
+            {
+                AlPixeles = new int[700];
+            }
             Console.WriteLine("Alto de la Imagen en pixeles");
             AlPixeles[i] = int.Parse(Console.ReadLine());
 
@@ -47,8 +51,10 @@ namespace Ejercicio_6
         }
         public void Peso ()
         {
-            
-            TaKB = new float[700];
+            if (i <= 0)
+            {
+                TaKB = new float[700];
+            }
             Console.WriteLine("Peso de la Imagen en KB");
             TaKB[i] = int.Parse(Console.ReadLine());
 
@@ -87,7 +93,7 @@ namespace Ejercicio_6
                         i--;
                         z = i - c;
                         int P = 700 - c;
-                      
+                        Console.Clear();
                         Console.WriteLine("Quedan {0} espacios disponibles ", P);
                         if (z < 0)
                             
@@ -108,7 +114,7 @@ namespace Ejercicio_6
                     c++;
                     
                     p = Console.ReadLine();
-               
+                    Console.Clear();
                 } while (p != "n");
                 int q = 0;
                 do

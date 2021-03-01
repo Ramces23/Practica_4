@@ -158,7 +158,8 @@ namespace Ejercicio_6
             }
         }
         static void Main(string[] args)
-        {
+        {            
+            Console.WriteLine("Programa desarrollado por Ramces Batista Peña para almacenar datos de imagenes ");
             string p = "";
             Program obj = new Program();
             int y = 0;
@@ -167,8 +168,7 @@ namespace Ejercicio_6
                 ConEjec++;
                 if (i <= 0)
                 {
-                    obj.inicializador();
- 
+                    obj.inicializador(); 
                     obj.Primer();
                     Console.Clear();
                 }

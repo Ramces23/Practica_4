@@ -52,7 +52,7 @@ namespace Ejercicio_8
                 suma += Estatura[i];
                 i++;
             } while (i <= 4);
-            promedio = suma / 4;
+            promedio = suma / 5;
             Console.WriteLine("Promedio: {0} ", promedio);
         }
         public void inicializador()
@@ -93,6 +93,7 @@ namespace Ejercicio_8
             string p = "";
             do
             {
+                i = 0;
                 Program obj = new Program();
                 obj.inicializador();
                 do

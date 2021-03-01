@@ -1,0 +1,13 @@
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\bin\Debug\netcoreapp3.1\Ejercicio_9.exe
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\bin\Debug\netcoreapp3.1\Ejercicio_9.deps.json
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\bin\Debug\netcoreapp3.1\Ejercicio_9.runtimeconfig.json
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\bin\Debug\netcoreapp3.1\Ejercicio_9.runtimeconfig.dev.json
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\bin\Debug\netcoreapp3.1\Ejercicio_9.dll
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\bin\Debug\netcoreapp3.1\Ejercicio_9.pdb
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp3.1\Ejercicio_9.csprojAssemblyReference.cache
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp3.1\Ejercicio_9.AssemblyInfoInputs.cache
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp3.1\Ejercicio_9.AssemblyInfo.cs
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp3.1\Ejercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp3.1\Ejercicio_9.dll
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp3.1\Ejercicio_9.pdb
+C:\Users\HP Probook 4430s\source\repos\Practica_4\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp3.1\Ejercicio_9.genruntimeconfig.cache

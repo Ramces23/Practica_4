@@ -128,7 +128,7 @@ namespace Ejercicio_6
 
             if (TaKB[i] == 0)
             {
-                Console.WriteLine("Bienvenido, como es es su primera vez el programa esta vacio, indique los datos de su primera imegen: ");
+                Console.WriteLine("Bienvenido, como es su primera vez el programa esta vacio, indique los datos de su primera imegen: ");
                 Name();
                 Ancho();
                 Alto();
@@ -149,13 +149,19 @@ namespace Ejercicio_6
 
         public void VerFichero() {
             Console.WriteLine("Los Ficheros Son: ");
-            for (i = 1; i <= c; i++)
-            {
-                Console.WriteLine("Fichero [{0}]", i);
-                i--;
-                Console.WriteLine("Nombre:\n " + Nombre[i]);
+            i = 0;
+            do {
+                if (TaKB[i] > 0)
+                {
+                    i++;
+                    Console.WriteLine("Fichero [{0}]", i);
+                    i--;
+                    Console.WriteLine("Nombre:\n " + Nombre[i]);
+
+                }
                 i++;
-            }
+
+            } while (i != 700);
         }
         static void Main(string[] args)
         {            
